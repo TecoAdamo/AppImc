@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^2.4.0",
+    "react-native-vector-icons": "^10.0.0"
+  }
+}
